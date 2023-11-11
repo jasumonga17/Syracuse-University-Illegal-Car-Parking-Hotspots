@@ -1,3 +1,3 @@
-### Syracuse-University-Illegal-Car-Parking-Spots
+### Syracuse University-Illegal Car Parking Spots
 
 
