@@ -4,9 +4,12 @@
 
 **Goal**: Identifying all the illegal car parking hotspots near Syracuse University
 
-•	Teamed up with a group of three data analysts to unveil unauthorized car parking areas around Syracuse, leading to improved dispatcher alignment in targeted  regions.
+•	Collaborated with a cross-functional team to leverage descriptive and prescriptive analytics techniques, including Python libraries such as Pandas and Numpy, to analyze and optimize operational processes, resulting in enhanced efficiency and resource utilization in targeted regions.
 
-•	Crafted a Tableau dashboard identifying the top 5% of streets accountable for over 90% of dispatched vehicles, thereby optimizing illegal parking enforcement procedures
+•	Developed a Tableau dashboard to visualize key performance indicators and identify actionable insights, such as optimizing resource allocation and improving operational workflows, aligning with the organization's commitment to data-driven decision-making and continuous improvement.
+
+
+
 
 
 
